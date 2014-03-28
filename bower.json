@@ -1,0 +1,29 @@
+{
+    "name": "Resume Builder",
+    "version": "0.1.0",
+    "description": "Single-page-app for Resume Builder",
+    "moduleType": [
+        "amd"
+    ],
+    "authors": [
+        "Mirza Adil Bag <adil.baig@aidezigns.com>",
+        "Waseem Ahmed <wassimahmed@hotmail.com>"
+    ],
+    "license": "MIT",
+    "homepage": "http://www.resume-builder.io",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "public/vendor",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "requirejs": "2.*",
+        "bootstrap": "3.*",
+        "jquery": "2.*",
+        "devicejs": ""
+    }
+}
